@@ -2,7 +2,7 @@ name: CI/CD Pipeline
 
 on: [push, pull_request]
 
-runs-on: self-hosted
+# runs-on: self-hosted
 
 jobs:
   build:
